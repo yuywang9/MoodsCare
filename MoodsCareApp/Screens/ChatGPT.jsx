@@ -6,7 +6,7 @@ import { db } from '../firebaseConfig';
 import { collection, query, orderBy, limit, getDocs } from 'firebase/firestore';
 
 export default function ChatGPT() {
-  const API = 'sk-a857542989234d5eae18840d9a8ce723'; // Replace with your DeepSeek API Key
+  const API = '*************************************'; // Replace with your DeepSeek API Key
   const [messages, setMessages] = useState([]);
   const [loading, setLoading] = useState(false);
   const [recentContext, setRecentContext] = useState(null); // State to store recent context
