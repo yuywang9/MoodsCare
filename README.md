@@ -76,6 +76,11 @@ https://portland-my.sharepoint.com/personal/yuywang9-c_my_cityu_edu_hk/_layouts/
 - *Backend Integration*: Firebase Firestore
 - *Development Environment*: Create React App
 
+### Model Training
+- Python
+- pandas
+- Numpy
+- scikit-learn
 ## Installation
 
 ### Mobile Application
