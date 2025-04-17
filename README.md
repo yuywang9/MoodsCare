@@ -115,8 +115,11 @@ https://portland-my.sharepoint.com/personal/yuywang9-c_my_cityu_edu_hk/_layouts/
 
 ### User Diary Emotion Analysis Model Training
 1. Navigate to Diary_Emotion_Analysis_Model directory
-2. Train the model using User_Diary_Emotion_Analysis_Model.py script with Emotion_Dataset.xls dataset
-3. Deploy the model online and connect to mobile app by inputing the URL in line 28 of file MoodsCare/MoodsCareApp/Screens/Summary.jsx
+2. Install Model Training Dependencies
+   - cd model_training
+   - pip install -r requirements.txt
+4. Train the model using User_Diary_Emotion_Analysis_Model.py script with Emotion_Dataset.xls dataset
+5. Deploy the model online and connect to mobile app by inputing the URL in line 28 of file MoodsCare/MoodsCareApp/Screens/Summary.jsx
 
 ## Environment Setup Requirements
 - Node.js v12 or higher
