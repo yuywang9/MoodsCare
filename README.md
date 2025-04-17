@@ -113,6 +113,10 @@ https://portland-my.sharepoint.com/personal/yuywang9-c_my_cityu_edu_hk/_layouts/
 3. Start the development server
 - npm start
 
+### User Diary Emotion Analysis Model Training
+1. Navigate to Diary_Emotion_Analysis_Model directory
+2. Train the model using User_Diary_Emotion_Analysis_Model.py script with Emotion_Dataset.xls dataset
+3. Deploy the model online
 
 ## Environment Setup Requirements
 - Node.js v12 or higher
