@@ -25,7 +25,7 @@ export default function Summary({ route }) {
     const motionAnalysis = async () => {
       try {
         const response = await axios.post(
-          "https://asia-east2-pacific-cab-435908-a1.cloudfunctions.net/Emotion_Analysis",
+          "Your URL for emotion analysis model hosted online",
           { text: diary }
         );
         console.log("API response:", response.data.probabilities);
