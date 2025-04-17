@@ -143,7 +143,7 @@ Please ensure to properly secure your API keys and Firebase configuration in pro
 [Wang Yuyang]
 
 ## Acknowledgments
-- Face-api.js for facial emotion detection
+- Face-api.js and TensorFlow.js for facial emotion detection
 - DeepSeek for AI capabilities
 - Firebase for backend services
 - React Native community
