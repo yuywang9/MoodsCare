@@ -3,7 +3,7 @@ import { getFirestore } from "firebase/firestore";
 import { getMessaging } from "firebase/messaging";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCyuBlM417sM1W-q33zGGkf5NzlcpzhcDE",
+    apiKey: "**************************",
     authDomain: "moodscare-afed8.firebaseapp.com",
     projectId: "moodscare-afed8",
     storageBucket: "moodscare-afed8.firebasestorage.app",
